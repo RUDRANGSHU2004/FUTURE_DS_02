@@ -42,6 +42,7 @@ Layout: Structured pages for intuitive data exploration and drill-down analysis.
   * **Optimization Insights:** Delivers granular, data-backed analysis that clearly identifies high-ROI/low-CPA **Campaign IDs** and **Audience Segments** ready for immediate investment decisions.
   * **Cross-Channel Benchmark:** Provides strategic context by benchmarking Facebook’s ROI and Spend against three competitor channels (**Instagram, Twitter, and Pinterest**).
   * **Data Model & Preparation:** Developed a resilient model that integrates two disparate campaign datasets (T1 & T2) as separate fact tables for comprehensive analysis without relying on traditional joins.
+    
 📬 Author
 
  Name  RUDRANGSHU BOSE 
